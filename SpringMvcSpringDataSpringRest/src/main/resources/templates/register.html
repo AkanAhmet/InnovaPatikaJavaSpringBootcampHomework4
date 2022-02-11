@@ -37,20 +37,20 @@
 
                     <div class="form-group">
                         <label for="age">Age:</label>  <!-- BURADA LABEL DUZELTİLCEK-->
-                        <input th:field="*{userAge}"  type="text"  class="form-control" id="age">
+                        <input th:field="*{userAge}"  type="number"  class="form-control" id="age">
                         <div th:if="${#fields.hasErrors('userAge')}" th:errors="*{userAge}" ></div>
                     </div>
 
                     <div class="form-group">
-                        <label for="exampleInputEmail1">Email Address:</label>
-                        <input th:field="*{userEmail}"  class="form-control form-control-sm" id="exampleInputEmail1"
+                        <label for="email">Email Address:</label>
+                        <input th:field="*{userEmail}"  class="form-control form-control-sm" id="email"
                         />
                         <div th:if="${#fields.hasErrors('userEmail')}" th:errors="*{userEmail}" ></div>
                     </div>
 
                     <div class="form-group">
-                        <label for="exampleInputPassword1">Password:</label>
-                        <input th:field="*{userPassword}" type="password" class="form-control form-control-sm" id="exampleInputPassword1"
+                        <label for="password">Password:</label>
+                        <input th:field="*{userPassword}" type="password" class="form-control form-control-sm" id="password"
                         />
                         <div th:if="${#fields.hasErrors('userPassword')}" th:errors="*{userPassword}" ></div>
                     </div>
