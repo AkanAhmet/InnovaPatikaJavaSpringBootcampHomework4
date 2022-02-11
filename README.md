@@ -2,7 +2,7 @@
 This project about register form and form validation with Thymeleaf and saving users on MySQL Db.
 
 
-![alt text](https://github.com/AkanAhmet/[reponame]/blob/[branch]/img/image.jpg?raw=true)
+![alt text](https://github.com/AkanAhmet/InnovaPatikaJavaSpringBootcampHomework4/blob/main/img/readme.jpg?raw=true)
 
 
 # Tekonolojiler
