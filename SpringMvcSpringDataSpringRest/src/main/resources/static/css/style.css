@@ -1,0 +1,63 @@
+.global-container
+{
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #008000;
+}
+
+form
+{
+    padding-top: 10px;
+    font-size: 14px;
+    margin-top: 30px;
+}
+
+.login-form
+{
+    width: 400px;
+    height: 770px;
+    margin: 20px;
+    background: #1a2226 !important;
+}
+
+
+.card-title
+{
+    font-weight: 900;
+    padding-top: 20px;
+}
+
+.btn
+{
+    background: #FF0000 !important;
+    font-size: 14px;
+    transform: translateY(10px);
+    border-radius: 10px !important;
+}
+
+input[type="submit"]
+{
+    background: #FF0000;
+    border: 2px solid #0db8de;
+    border-radius: 5px;
+    margin-bottom: 5px;
+}
+
+input[type="submit"]:focus
+{
+    outline: none;
+    border: none;
+    background: #FF0000;
+    margin: 0;
+}
+
+html,
+body
+{
+    height: 100%;
+    background-color: #FFC300 !important;
+
+}
+
