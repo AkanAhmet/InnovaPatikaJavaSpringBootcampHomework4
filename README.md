@@ -21,7 +21,7 @@ This project about register form and form validation with Thymeleaf and saving u
 
 ### GitHub
 
-* [GitHub Permalinık](https://github.com/AkanAhmet/SpringMvcSpringDataSpringRest)
+* [GitHub Permalink](https://github.com/AkanAhmet/InnovaPatikaJavaSpringBootcampHomework4)
 
 ### Dependency
 
