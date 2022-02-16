@@ -1,11 +1,11 @@
 # Innova - Patika Java Spring Bootcamp Homework 4 , Ahmet AKAN
-This project about register form and form validation with Thymeleaf and saving users on MySQL Db.
+This project about register form and form validation with Thymeleaf and saving users to MySQL Db.
 
 
 ![My image](https://github.com/AkanAhmet/InnovaPatikaJavaSpringBootcampHomework4/blob/main/img/readme.jpg)
 
 
-# Tekonolojiler
+# Techs
 
 * Java 17
 * Spring Boot DevTools
